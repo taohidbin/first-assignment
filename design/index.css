@@ -133,3 +133,35 @@ font-weight: 400;
 margin: 90px 90px;
 background-color: beige;
 }
+/* ending partk */
+.last{ 
+    display: flex;
+    background-color: black;
+   justify-content: space-around;
+   gap: 100px;
+    
+}
+.FUTURE{
+    
+    color: white;
+    font-size: 70px;
+}
+    
+#PAST{
+
+color: white;
+font-size: 20px ;
+}
+.index{
+ background-color: white;
+ color: chocolate;
+ height: 60px;
+ width: 120px;
+ font-size: 20px;
+ margin-top: 20px;
+
+}
+.tcfg{
+    height: 40px;
+    font-size: 22px;
+}
