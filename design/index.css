@@ -1,16 +1,23 @@
 /* main */
 .mainpart{
-    display: flex;
-    background-color:#E6E6E6 ;
+ 
+   background-image: url(/essentials/images/banner/banner1.png);
+   background-repeat: no-repeat;
+background-size: cover;
+   background-position: center;
+  
+   padding-bottom: 400px;
+   padding-top: 200px;
+ }
+ 
+ 
 
-    justify-content:space-around ;
-}
-
-
-.written part{
-    margin-right: 1000px;
-
-
+.writtenpart{
+   margin-left: 1000px;
+   margin-right: 200px;
+   margin-top: 50px;
+    
+   
 }
 .part1{
 font-size: 50px;
@@ -26,6 +33,7 @@ border-style: none;
 margin-top: 20px;
 font-style:system-ui, system-ui, sans-serif ;
 font-size: 20px;
+font-weight: 400;
 }
 /* main part 1st one */
 .secondpart{
@@ -67,3 +75,5 @@ font-size: 20px;
 .size{
     font-size: 25px;
 }
+<div class="imagepart">
+        /* <img src="/essentials/images/banner/banner1.png" alt="" srcset="" > */
